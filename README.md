@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Diving deeper into NLP every day.  Reading right now: "Natural Language Processing with Transformers" by Tunstall et al. (repo: https://github.com/nlp-with-transformers).
+Diving deeper into NLP every day.  Digesting right now: "Natural Language Processing with Transformers" by Tunstall et al. (repo: https://github.com/nlp-with-transformers).
 
 <!--
 **CalleRosa40/callerosa40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
